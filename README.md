@@ -77,3 +77,11 @@ The components required are identical to LIV2's original design, but please be a
 |22-Pin, 2 Row Male header||4|[Mouser](https://www.mouser.se/ProductDetail/649-77313-118-22LF)
 
 **Note**: Only solder C2 if the 8375 you are installing is marked with "VBB".
+
+## PCBWay
+
+I've made the PCBs available on PCBWay here: https://www.pcbway.com/project/member/?bmbno=0369642B-E3DA-48
+
+## Sponsorship
+
+If you like these projects and have built / sold a few yourself, please consider sponsoring. R&D for these projects isn't cheap and the sponsorship money goes into more designs for the future. Links for this are can be found in the "Sponsor" button at the top of the GitHub page for this project.
