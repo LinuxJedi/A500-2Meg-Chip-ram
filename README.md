@@ -66,7 +66,7 @@ The components required are identical to LIV2's original design, but please be a
 
 |Component|Location|QTY|Link|
 |---------|--------|---|------|
-|Ceramic Capacitor, 0.1uF, 0805|C1-7|6|[Mouser](https://www.mouser.com/ProductDetail/710-885012207098)|
+|Ceramic Capacitor, 0.1uF, 0805|C1-6|6|[Mouser](https://www.mouser.com/ProductDetail/710-885012207098)|
 |Ceramic Capacitor, 22pF, 0805|C7|1|[Mouser](https://www.mouser.com/ProductDetail/710-885012007053) |
 |Resistor, 150 Ohm, 0805|R1|1|[Mouser](https://www.mouser.se/ProductDetail/652-CR0805JW-151ELF)|
 |74AHC1G08 Single 2-Input AND Gate, SOT-23-5|U3|1|[Mouser](https://www.mouser.com/ProductDetail/595-SN74AHC1G08DBVR)|
